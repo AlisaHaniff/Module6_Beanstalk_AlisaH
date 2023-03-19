@@ -1,0 +1,117 @@
+!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <!--
+    Copyright 2010-2011 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+    Licensed under the Apache License, Version 2.0 (the "License"). You may not use this file except in compliance with the License. A copy of the License is located at
+
+        http://aws.Amazon/apache2.0/
+
+    or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+  -->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Welcome</title>
+  <style>
+  body {
+    color: #0c0c0c;
+    background-color: #c7c7c7;
+    font-family: Arial, sans-serif;
+    font-size:14px;
+    -moz-transition-property: text-shadow;
+    -moz-transition-duration: 4s;
+    -webkit-transition-property: text-shadow;
+    -webkit-transition-duration: 4s;
+    text-shadow: none;
+  }
+  body.blurry {
+    -moz-transition-property: text-shadow;
+    -moz-transition-duration: 4s;
+    -webkit-transition-property: text-shadow;
+    -webkit-transition-duration: 4s;
+    text-shadow: #fff 0px 0px 25px;
+  }
+  a {
+    color: #7b01cc;
+  }
+  .textColumn, .linksColumn {
+    padding: 2em;
+  }
+  .textColumn {
+    position: absolute;
+    top: 0px;
+    right: 50%;
+    bottom: 0px;
+    left: 0px;
+
+    text-align: right;
+    padding-top: 11em;
+    background-color: #0f01cc;
+    background-image: -moz-radial-gradient(left top, circle, #6ac9f9 0%, #0f01cc 60%);
+    background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#6ac9f9), to(#0188cc));
+  }
+  .textColumn p {
+    width: 75%;
+    float:right;
+  }
+  .linksColumn {
+    position: absolute;
+    top:0px;
+    right: 0px;
+    bottom: 0px;
+    left: 50%;
+
+    background-color: #c7c7c7;
+  }
+
+  h1 {
+    font-size: 500%;
+    font-weight: normal;
+    margin-bottom: 0em;
+  }
+  h2 {
+    font-size: 200%;
+    font-weight: normal;
+    margin-bottom: 0em;
+  }
+  ul {
+    padding-left: 1em;
+    margin: 0px;
+  }
+  li {
+    margin: 1em 0em;
+  }
+
+  </style>
+</head>
+<body id="sample">
+  <div class="textColumn">
+    <h1>It's March Madness!</h1>
+    <p>We are finishing off the second round this weekend. Who will make it to the Sweet 16!</p>
+  </div>
+  
+  <div class="linksColumn"> 
+    <h2>NCAA Men's March Madness! </h2>
+    <ul>
+      <li><a href="https://www.google.com/search?q=march+madness+2023&rlz=1C1CHBF_enUS1034US1035&oq=marchmadne&aqs=chrome.1.69i57j0i10i512l2j0i131i433i512j0i10i512l6.5537j0j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11s_zdx97h;3;/g/11ckvf54fz;br;fp;1;;;">
+        To view the current bracket, click here</a></li>
+      <li><a href="https://www.google.com/search?q=march+madness+2023&rlz=1C1CHBF_enUS1034US1035&oq=marchmadne&aqs=chrome.1.69i57j0i10i512l2j0i131i433i512j0i10i512l6.5537j0j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11s_zdx97h;3;/g/11ckvf54fz;nw;fp;1;;;">
+        Want to be in the know? Stay up to date Click here for the lastest news.</a></li>
+      <li><a href="https://www.google.com/search?q=march+madness+2023&rlz=1C1CHBF_enUS1034US1035&oq=marchmadne&aqs=chrome.1.69i57j0i10i512l2j0i131i433i512j0i10i512l6.5537j0j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11s_zdx97h;3;/g/11ckvf54fz;rn;fp;1;;;">
+        How is your bracket looking? Click here to see the current team rankings.</a></li>
+     
+    </ul>
+    <h2>NCAA Women's March Madness! </h2>
+    <ul>
+      <li><a href="https://www.google.com/search?rlz=1C1CHBF_enUS1034US1035&sxsrf=AJOqlzWxCAY1z1LaLjHAkaIMieP759JMLg:1679234446845&q=Women%27s+March+Madness&si=AEcPFx5wW4Z_Yh6-jCOt2nbKmaL5lZmCrKDo4InOlzXhPAZbnhe78bni8jzB9COOq1HOZdMwpaJgZ_1HMsY9tgF26i___5bpSTcuTHCoHAmZIHew4FKBlCbX3ji_xFPTm3ijQcwgSkS7hPRej4a7jfp8WI34coVorHAx6wW9CFAjr7R7tZleNADIqu9JO1qPKdEXzEpnBmyKxhIseCAwQPVM5oJwtUbETVp-2Ryh3G6ffAz5uNSwmpGzzA8JG_NvXkaJN5dC5J5XOtsrSOaQxQw7W5HQ3zn1obITFwYHOu52gOr8qHx12WfaXnB8k3a2jEExBfh4Lkn2989VKEAkw99KFHJ7ErBzag%3D%3D&sa=X&ved=2ahUKEwiljcvlk-j9AhXGFVkFHRkaDLQQ6RN6BAhIEAE&biw=1600&bih=749&dpr=1#sie=lg;/g/11s_zf2h3_;3;/g/11dxbvlspv;br;fp;1;;;">
+        To view the current bracket, click here</a></li>
+    <li><a href="https://www.google.com/search?rlz=1C1CHBF_enUS1034US1035&sxsrf=AJOqlzWxCAY1z1LaLjHAkaIMieP759JMLg:1679234446845&q=Women%27s+March+Madness&si=AEcPFx5wW4Z_Yh6-jCOt2nbKmaL5lZmCrKDo4InOlzXhPAZbnhe78bni8jzB9COOq1HOZdMwpaJgZ_1HMsY9tgF26i___5bpSTcuTHCoHAmZIHew4FKBlCbX3ji_xFPTm3ijQcwgSkS7hPRej4a7jfp8WI34coVorHAx6wW9CFAjr7R7tZleNADIqu9JO1qPKdEXzEpnBmyKxhIseCAwQPVM5oJwtUbETVp-2Ryh3G6ffAz5uNSwmpGzzA8JG_NvXkaJN5dC5J5XOtsrSOaQxQw7W5HQ3zn1obITFwYHOu52gOr8qHx12WfaXnB8k3a2jEExBfh4Lkn2989VKEAkw99KFHJ7ErBzag%3D%3D&sa=X&ved=2ahUKEwiljcvlk-j9AhXGFVkFHRkaDLQQ6RN6BAhIEAE&biw=1600&bih=749&dpr=1#sie=lg;/g/11s_zf2h3_;3;/g/11dxbvlspv;nw;fp;1;;;">
+        Want to be in the know? Stay up to date Click here for the lastest news.</a></li>
+    <li><a href="https://www.google.com/search?rlz=1C1CHBF_enUS1034US1035&sxsrf=AJOqlzWxCAY1z1LaLjHAkaIMieP759JMLg:1679234446845&q=Women%27s+March+Madness&si=AEcPFx5wW4Z_Yh6-jCOt2nbKmaL5lZmCrKDo4InOlzXhPAZbnhe78bni8jzB9COOq1HOZdMwpaJgZ_1HMsY9tgF26i___5bpSTcuTHCoHAmZIHew4FKBlCbX3ji_xFPTm3ijQcwgSkS7hPRej4a7jfp8WI34coVorHAx6wW9CFAjr7R7tZleNADIqu9JO1qPKdEXzEpnBmyKxhIseCAwQPVM5oJwtUbETVp-2Ryh3G6ffAz5uNSwmpGzzA8JG_NvXkaJN5dC5J5XOtsrSOaQxQw7W5HQ3zn1obITFwYHOu52gOr8qHx12WfaXnB8k3a2jEExBfh4Lkn2989VKEAkw99KFHJ7ErBzag%3D%3D&sa=X&ved=2ahUKEwiljcvlk-j9AhXGFVkFHRkaDLQQ6RN6BAhIEAE&biw=1600&bih=749&dpr=1#sie=lg;/g/11s_zf2h3_;3;/g/11dxbvlspv;st;fp;1;;;">
+        How is your bracket looking? Click here to see the current team rankings.</a></li>
+    </ul>
+    
+  </div>
+</script>
+</body>
+</html>
